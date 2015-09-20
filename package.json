@@ -1,0 +1,26 @@
+{
+  "name": "womens-center",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkobrosky/womens-center.git"
+  },
+  "author": "jkobrosky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkobrosky/womens-center/issues"
+  },
+  "homepage": "https://github.com/jkobrosky/womens-center#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "jit-grunt": "^0.9.1",
+    "less": "^2.5.1"
+  }
+}
